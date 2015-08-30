@@ -1,0 +1,6 @@
+*.log
+target
+*.class
+nbactions.xml
+nb-configuration.xml
+
